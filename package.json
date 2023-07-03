@@ -1,6 +1,6 @@
 {
   "name": "youtube",
-  "homepage": "youtube/",
+  "homepage": "projeto-Youtube/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
